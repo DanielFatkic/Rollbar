@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="rollbar" version="10000">
+  <word key="__app_rollbar" js="0">Rollbar Error Handler</word>
+  <word key="rollbar_settings" js="0">Rollbar Settings</word>
+  <word key="rollbar_api_key" js="0">API Key</word>
+  <word key="rollbar_api_key_desc" js="0"><![CDATA[Get your API Key from <a href='https://rollbar.com/' target='_blank' rel='noopener' >rollbar.com</a>]]></word>
+ </app>
+</language>

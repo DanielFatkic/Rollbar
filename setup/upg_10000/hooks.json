@@ -1,0 +1,9 @@
+{
+    "added": [
+        "dispatcher_add_rollbar",
+        "acp_advanced_controller_add_tabs",
+        "add_rollbar_tab_to_template"
+    ],
+    "edited": [],
+    "removed": []
+}

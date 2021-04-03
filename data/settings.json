@@ -1,0 +1,6 @@
+[
+    {
+        "key": "rollbar_api_key",
+        "default": ""
+    }
+]

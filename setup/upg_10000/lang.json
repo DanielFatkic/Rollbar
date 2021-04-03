@@ -1,0 +1,17 @@
+{
+    "normal": {
+        "added": [
+            "__app_rollbar",
+            "rollbar_settings",
+            "rollbar_api_key",
+            "rollbar_api_key_desc"
+        ],
+        "edited": [],
+        "removed": []
+    },
+    "js": {
+        "added": [],
+        "edited": [],
+        "removed": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "dispatcher_add_rollbar": {
+        "type": "C",
+        "class": "\\IPS\\Dispatcher\\Standard"
+    },
+    "acp_advanced_controller_add_tabs": {
+        "type": "C",
+        "class": "\\IPS\\core\\modules\\admin\\settings\\advanced"
+    },
+    "add_rollbar_tab_to_template": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_admin_global"
+    }
+}
