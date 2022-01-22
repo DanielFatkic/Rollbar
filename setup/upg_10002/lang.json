@@ -1,0 +1,21 @@
+{
+    "normal": {
+        "added": [
+            "enhancements__rollbar_Rollbar",
+            "enhancements__rollbar_Rollbar_desc",
+            "rollbar_api_key_required"
+        ],
+        "edited": [
+            "rollbar_api_key",
+            "rollbar_api_key_desc"
+        ],
+        "removed": [
+            "rollbar_settings"
+        ]
+    },
+    "js": {
+        "added": [],
+        "edited": [],
+        "removed": []
+    }
+}

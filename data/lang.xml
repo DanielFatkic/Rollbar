@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language>
- <app key="rollbar" version="10001">
+ <app key="rollbar" version="10002">
   <word key="__app_rollbar" js="0">Rollbar Error Handler</word>
-  <word key="rollbar_settings" js="0">Rollbar Settings</word>
-  <word key="rollbar_api_key" js="0">API Key</word>
-  <word key="rollbar_api_key_desc" js="0"><![CDATA[Get your API Key from <a href='https://rollbar.com/' target='_blank' rel='noopener' >rollbar.com</a>]]></word>
+  <word key="rollbar_api_key" js="0">Access Token</word>
+  <word key="rollbar_api_key_desc" js="0"><![CDATA[Get your Token from <a href='https://rollbar.com/' target='_blank' rel='noopener' >rollbar.com</a>]]></word>
+  <word key="enhancements__rollbar_Rollbar" js="0">Rollbar</word>
+  <word key="enhancements__rollbar_Rollbar_desc" js="0">Rollbar collects and reports errors happening in your community.</word>
+  <word key="rollbar_api_key_required" js="0">The Access Token is required to enable rollbar.</word>
  </app>
 </language>

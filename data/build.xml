@@ -2,6 +2,4 @@
 <build>
  <setting key="rollbar_api_key"><![CDATA[{"key":"rollbar_api_key","default":""}]]></setting>
  <hook key="dispatcher_add_rollbar"><![CDATA[{"type":"C","class":"\\IPS\\Dispatcher\\Standard"}]]></hook>
- <hook key="acp_advanced_controller_add_tabs"><![CDATA[{"type":"C","class":"\\IPS\\core\\modules\\admin\\settings\\advanced"}]]></hook>
- <hook key="add_rollbar_tab_to_template"><![CDATA[{"type":"S","class":"\\IPS\\Theme\\class_core_admin_global"}]]></hook>
 </build>

@@ -19,6 +19,7 @@ abstract class rollbar_hook_dispatcher_add_rollbar extends _HOOK_CLASS_
 
 	protected function initRollbar()
 	{
+		ray(\IPS\Settings::i()->rollbar_api_key);
 		if ( \IPS\Settings::i()->rollbar_api_key )
 		{
 			require_once \IPS\Application::getRootPath('rollbar')  . '/applications/rollbar/sources/vendor/autoload.php';
