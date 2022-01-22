@@ -6,6 +6,13 @@ Installation
 ------------
 The preferred way to install this application is via the Marketplace LINK //TODO 
 
+After the installation you'll find the settings in your ACP on the System => Integrations page.
 
-Once installed, you can find the settings form in your ACP on the System => Advanced Configuration Page.
 ![Settings Form](dev/screenshots/ACP_Settings_Form.png)
+
+
+
+Changelog:
+
+2.0.0
+- Moved the settings to an IPS Integrations

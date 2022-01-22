@@ -1,0 +1,7 @@
+{
+    "core": {
+        "CommunityEnhancements": {
+            "Rollbar": "IPS\\rollbar\\extensions\\core\\CommunityEnhancements\\Rollbar"
+        }
+    }
+}
