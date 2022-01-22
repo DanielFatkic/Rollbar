@@ -51,7 +51,6 @@ class _Rollbar
 	public function __construct()
 	{
 		$this->enabled = (bool) \IPS\Settings::i()->rollbar_api_key != 0;
-		ray($this);
 	}
 	
 	/**
